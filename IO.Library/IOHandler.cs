@@ -1,4 +1,4 @@
-﻿namespace JCLibraries.IO.Library
+﻿namespace IO.Library
 {
     public static class IOHandler
     {
