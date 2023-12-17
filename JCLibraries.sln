@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IO.Library", "IO.Library\IO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cryptography", "Cryptography\Cryptography.csproj", "{935974EA-7656-4050-A01B-15997E4BDD9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OData.Json.Helper", "OData.Json.Helper\OData.Json.Helper.csproj", "{96EEE219-42C6-4092-A1B0-CA15353B303E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{935974EA-7656-4050-A01B-15997E4BDD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{935974EA-7656-4050-A01B-15997E4BDD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{935974EA-7656-4050-A01B-15997E4BDD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96EEE219-42C6-4092-A1B0-CA15353B303E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EEE219-42C6-4092-A1B0-CA15353B303E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EEE219-42C6-4092-A1B0-CA15353B303E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EEE219-42C6-4092-A1B0-CA15353B303E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
